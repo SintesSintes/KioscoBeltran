@@ -1,0 +1,16 @@
+body{
+	padding-top: 90px;
+	padding-top: 90px;
+	background-image: url("img/logo1.png"); 
+	background-repeat: no-repeat;  
+	background-position: 10px 10px; 
+	background-size: 80px auto; 
+
+	.navbar-brand .logo {
+    width: 40px;           
+    height: auto;          
+    display: inline-block; 
+    vertical-align: middle;
+    margin-right: 10px;     
+}
+}
